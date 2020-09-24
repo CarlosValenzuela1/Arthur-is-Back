@@ -1,2 +1,2 @@
 # Arthur-is-Back
-Repository containing beta of Arthur is Back game
+Repository containing executable of Arthur is Back game
